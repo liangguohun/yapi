@@ -1,13 +1,15 @@
 {
   "port": "3000",
-  "adminAccount": "admin@admin.com",
+  "adminAccount": "liangguohun",
+  "email": "liangguohun@qq.com",
+  "password": "hunge666",
   "db": {
-    "servername": "127.0.0.1",
+    "servername": "192.168.1.4",
     "DATABASE": "yapi",
     "port": 27017,
-    "user": "test1",
-    "pass": "test1",
-    "authSource": ""
+    "user": "yapi",
+    "pass": "yapi123",
+    "authSource": "yapi"
   },
   "mail": {
     "enable": true,
